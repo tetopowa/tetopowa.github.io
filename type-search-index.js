@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"mindstorm","l":"CapteurContact"},{"p":"mindstorm","l":"CapteurLuminosite"},{"p":"mindstorm","l":"ControleurLumiere"},{"p":"mindstorm","l":"Lampe"},{"p":"mindstorm","l":"Lumiere"},{"p":"mindstorm","l":"Plafonnier"}]
